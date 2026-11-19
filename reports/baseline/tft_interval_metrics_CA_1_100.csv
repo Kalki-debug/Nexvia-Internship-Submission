@@ -1,0 +1,2 @@
+Model,Store,Products,Forecast_Days,Lower_Quantile,Upper_Quantile,Interval_Coverage_Percent,Average_Interval_Width
+TFT,CA_1,100,28,0.1,0.9,30.28571428571429,2.9778187
