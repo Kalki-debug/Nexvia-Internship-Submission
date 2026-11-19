@@ -248,6 +248,17 @@ After preparing the required datasets, models, and report files:
 python src/33_dashboard.py
 ```
 
+## 📸 Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](c:\Users\HP\OneDrive\Pictures\Screenshots\dashboard_overview.png)
+
+### Forecasting Analysis
+![Forecasting Analysis](c:\Users\HP\OneDrive\Pictures\Screenshots\forecasting_analysis.png)
+
+### Inventory Optimization
+![Inventory Optimization](c:\Users\HP\OneDrive\Pictures\Screenshots\inventory_optimization.png)
+
 Open the following address in your browser:
 
 ```text
