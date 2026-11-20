@@ -1,7 +1,7 @@
 
 # System Architecture
 
-This diagram illustrates the complete workflow of the Retail Demand Forecasting & Inventory Optimization System.
+This diagram illustrates the complete workflow of the Nationwide Demand Forecasting and Inventory Optimization.
 
 ```mermaid
 flowchart TD

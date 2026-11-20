@@ -1,8 +1,8 @@
-# Retail Demand Forecasting & Inventory Optimization System
+# Nationwide Demand Forecasting and Inventory Optimization
 
 ## 1. Project Overview
 
-The **Retail Demand Forecasting & Inventory Optimization System** is a data science project developed as part of the Nexvia Technologies Data Science Internship.
+The **Nationwide Demand Forecasting and Inventory Optimization** is a data science project developed as part of the Nexvia Technologies Data Science Internship.
 
 The project uses the Walmart M5 Forecasting dataset to analyze historical retail sales, forecast future product demand, and optimize inventory order quantities.
 
