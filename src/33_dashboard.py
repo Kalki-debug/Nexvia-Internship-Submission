@@ -159,7 +159,7 @@ total_forecast = float(
 
 app = Dash(__name__)
 
-app.title = "Retail Demand Intelligence"
+app.title = "Nationwide Demand Forecasting "
 
 
 # ==================================================
@@ -196,7 +196,7 @@ app.layout = html.Div(
         # HEADER
         html.Div([
             html.H1(
-                "Retail Demand Forecasting & Inventory Optimization",
+                "Nationwide Demand Forecasting and Inventory Optimization",
                 style={"color": "#172554", "marginBottom": "8px"}
             ),
             html.P(
@@ -400,8 +400,8 @@ app.layout = html.Div(
         # FOOTER
         html.Div([
             html.P(
-                "Nexvia Technologies | Retail Demand Forecasting "
-                "& Inventory Optimization System",
+                "Nexvia Technologies | Nationwide Demand Forecasting "
+                "& Inventory Optimization",
                 style={
                     "textAlign": "center",
                     "color": "#64748b",
