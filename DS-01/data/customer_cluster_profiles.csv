@@ -1,0 +1,5 @@
+customer_cluster,customer_count,average_tenure,average_monthly_charges,average_monthly_revenue,average_historical_clv,churn_rate_percent
+0,1130,54.57,33.91,33.9,1844.03,4.78
+1,1967,58.39,93.53,93.59,5462.07,16.07
+2,2231,14.87,80.21,80.2,1193.42,48.5
+3,1715,10.67,32.0,31.68,330.03,24.31

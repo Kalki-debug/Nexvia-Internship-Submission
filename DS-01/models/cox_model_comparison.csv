@@ -1,0 +1,3 @@
+Model,Training_Concordance_Index,Number_of_Coefficients
+Baseline Cox,0.8374308817575944,8
+Adjusted Cox - Contract Stratification,0.793991932953814,7
